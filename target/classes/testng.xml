@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Test Automate Maven" >
+<test name="hi">
+<Packages>
+       <Package name="com.qa.test.*" />
+    </Packages></test>
+</suite>
