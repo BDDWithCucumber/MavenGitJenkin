@@ -1,7 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<suite name="Test Automate Maven" >
-<test name="hi">
-<Packages>
-       <Package name="com.qa.test.*" />
-    </Packages></test>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+ 
+<suite name="Test maven Testing" verbose="1" >
+  <test name="Maven test"   >
+    <packages>
+      <package name="com.qa.test.*" />
+   </packages>
+ </test>
 </suite>
